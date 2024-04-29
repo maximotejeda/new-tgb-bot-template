@@ -1,0 +1,5 @@
+.env
+k8s/deployment.yml
+bin/
+dolardb/
+
